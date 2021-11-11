@@ -1,15 +1,14 @@
 # Data_Science_Project
 # 1. Stroke prediction problem:
 
-  Naive_Bayes score   = 0.97
+  Naive_Bayes score   = 0.9757842475511938
   
-  Decision tree score = 0.95
+  Decision tree score = 0.9580693693548709
   
-  Random Forest score = 0.97 
+  Random Forest score = 0.9811159333580098 
   
-  MLP score           = 0.98
+  MLP score           = 0.9798779691214212
   
-  NB score            = 0.97
 # 2. Car Price Prediction:
   i) Using Random Forest Regressor:
   
