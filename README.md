@@ -7,6 +7,8 @@
     MLP score           = 0.9798779691214212
   
 # 2. Car Price Prediction:
+![download](https://user-images.githubusercontent.com/77626222/141260960-7f2708c9-7ac6-4223-bd9c-83661e6e92ab.png)
+
   i) Using Random Forest Regressor:
   
       MAE : 0.8904342857142883
