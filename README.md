@@ -31,22 +31,23 @@
       
 # 3. Bigmart_Sales_Prediction:
 ![Bigmart-Sales-Prediction-Project-using-Machine-Learning-code-free-download-B Tech-Projects-1](https://user-images.githubusercontent.com/77626222/141410287-1da5b137-caee-459c-9026-91796a6fdd28.jpg)
-      i) Linear Regression:
-            CV Score: 0.28379096950457705
-     ii) Ridge Regression:
-            CV Score: 0.42106982945161553
-    iii) Lasso Regression:
-            CV Score: 0.753489931597371
-     iv) DecisionTreeRegressor:
-            CV Score: 0.55270036823111
-      v) RandomForestRegressor:
-            CV Score: 0.29796788040240807
-     vi) ExtraTreesRegressor:
-            CV Score: 0.32380991148270566
-    vii) LGBMRegressor:
-            CV Score: 0.28146321091831317
-    viii) XGBRegressor:
-            CV Score: 0.2694785908308014
+
+          i) Linear Regression:
+                CV Score: 0.28379096950457705
+         ii) Ridge Regression:
+                CV Score: 0.42106982945161553
+        iii) Lasso Regression:
+                CV Score: 0.753489931597371
+         iv) DecisionTreeRegressor:
+                CV Score: 0.55270036823111
+          v) RandomForestRegressor:
+                CV Score: 0.29796788040240807
+         vi) ExtraTreesRegressor:
+                CV Score: 0.32380991148270566
+        vii) LGBMRegressor:
+                CV Score: 0.28146321091831317
+        viii) XGBRegressor:
+                CV Score: 0.2694785908308014
         
         
         
