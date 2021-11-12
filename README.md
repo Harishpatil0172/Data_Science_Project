@@ -1,7 +1,6 @@
 # Data_Science_Project
 # 1. Stroke prediction problem:
-![brain](https://user-images.githubusercontent.com/77626222/141261640-8f46c38e-973e-4365-980d-75175cc8845d.jpg)
-
+![brain](https://user-images.githubusercontent.com/77626222/141477290-35bc4a9e-dc9f-43ba-99f4-ffce6895ad9c.png)
 
     Naive_Bayes score   = 0.97
     Decision tree score = 0.95
