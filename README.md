@@ -48,5 +48,29 @@
                 CV Score: 0.28146321091831317
         viii) XGBRegressor:
                 CV Score: 0.2694785908308014
-        
+
+# 4. Loan Approval Prediction:
+
+           i) LogisticRegression:
+                Accuracy = 78.37837837837837
+          ii) DecisionTreeClassifier:
+                Accuracy = 70.8108108108108
+         iii) RandomForestClassifier:
+                Accuracy = 78.91891891891892
+          iv) ExtraTreesClassifier:
+                Accuracy = 72.43243243243244
+           v) XGBClassifier:
+                Accuracy = 77.83
+          vi) LGBMClassifier:
+                Accuracy = 76.75
+         vii) RandomizedSearchCV:
+                Accuracy = 80.94
+
+
+
+
+
+
+
+
 
