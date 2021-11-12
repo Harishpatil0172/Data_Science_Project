@@ -29,7 +29,7 @@
       RMSE: 1.98
       
 # 3. Bigmart_Sales_Prediction:
-![Bigmart-Sales-Prediction-Project-using-Machine-Learning-code-free-download-B Tech-Projects-1](https://user-images.githubusercontent.com/77626222/141410287-1da5b137-caee-459c-9026-91796a6fdd28.jpg)
+![Bigmart-Sales-Prediction-Project-using-Machine-Learning-code-free-download-B Tech-Projects-1](https://user-images.githubusercontent.com/77626222/141477629-296f4e96-fdae-4fff-96dc-322b8ea948bb.png)
 
            i) Linear Regression:
                 CV Score: 0.28
