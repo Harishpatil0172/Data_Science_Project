@@ -31,39 +31,37 @@
 # 3. Bigmart_Sales_Prediction:
 ![Bigmart-Sales-Prediction-Project-using-Machine-Learning-code-free-download-B Tech-Projects-1](https://user-images.githubusercontent.com/77626222/141477629-296f4e96-fdae-4fff-96dc-322b8ea948bb.png)
 
-           i) Linear Regression:
+           1) Linear Regression:
                 CV Score: 0.28
-          ii) Ridge Regression:
+           2) Ridge Regression:
                 CV Score: 0.42
-         iii) Lasso Regression:
+           3) Lasso Regression:
                 CV Score: 0.75
-          iv) DecisionTreeRegressor:
+           4) DecisionTreeRegressor:
                 CV Score: 0.55
-           v) RandomForestRegressor:
+           5) RandomForestRegressor:
                 CV Score: 0.29
-          vi) ExtraTreesRegressor:
+           6) ExtraTreesRegressor:
                 CV Score: 0.32
-         vii) LGBMRegressor:
+           7) LGBMRegressor:
                 CV Score: 0.28
-        viii) XGBRegressor:
-                CV Score: 0.26
 
 # 4. Loan Approval Prediction:
 ![download](https://user-images.githubusercontent.com/77626222/141475982-ade3fbd3-9c3d-4cb5-bbbe-42ae58a3992e.jpg)
 
-           i) LogisticRegression:
+         1) LogisticRegression:
                 Accuracy = 78.37
-          ii) DecisionTreeClassifier:
+         2) DecisionTreeClassifier:
                 Accuracy = 70.81
-         iii) RandomForestClassifier:
+         3) RandomForestClassifier:
                 Accuracy = 78.91
-          iv) ExtraTreesClassifier:
+         4) ExtraTreesClassifier:
                 Accuracy = 72.43
-           v) XGBClassifier:
+         5) XGBClassifier:
                 Accuracy = 77.83
-          vi) LGBMClassifier:
+         6) LGBMClassifier:
                 Accuracy = 76.75
-         vii) RandomizedSearchCV:
+         7) RandomizedSearchCV:
                 Accuracy = 80.94
 
 
