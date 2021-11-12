@@ -49,8 +49,4 @@
         viii) XGBRegressor:
                 CV Score: 0.2694785908308014
         
-       after Hyperparameter Tuning:
-           i) RandomForestRegressor:
-                CV Score: 0.26864385931671647
-          ii) LGBMRegressor:
-                CV Score: 0.270658421321341
+
