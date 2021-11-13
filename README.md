@@ -79,6 +79,8 @@
          
 # 6. Apparent Temperature Prediction:
 
+![images](https://user-images.githubusercontent.com/77626222/141609579-c982d9af-f1b8-4c4f-95ef-3bbdf6c2c954.png)
+
          1) LinearRegression accuracy = 0.992
          2) XGBRegressor:
             Mean Absolute Error    :  0.116
