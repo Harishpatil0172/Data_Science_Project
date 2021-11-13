@@ -77,3 +77,23 @@
          cross validation average accuracy for SVM Classifier          : 0.891
          cross validation average accuracy for XGBoost Classifier      : 0.956
          
+# 6. Apparent Temperature Prediction:
+
+         1) LinearRegression accuracy = 0.992
+         2) XGBRegressor:
+            Mean Absolute Error    :  0.116
+            Mean Squared Error     :  0.031
+            Root Mean Squared Error:  0.176
+         3) LGBMRegressor:
+            Mean Absolute Error    :  0.126
+            Mean Squared Error     :  0.052
+            Root Mean Squared Error:  0.229
+         4) CatBoostRegressor:
+            Mean Absolute Error    :  0.144
+            Mean Squared Error     :  0.054
+            Root Mean Squared Error:  0.233
+         5) StackingRegressor:
+            Mean Absolute Error    :  0.501
+            Mean Squared Error     :  0.368
+            Root Mean Squared Error:  0.607
+            
