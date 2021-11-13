@@ -1,11 +1,16 @@
 # Data_Science_Project
-# 1. Stroke prediction problem:
-![brain](https://user-images.githubusercontent.com/77626222/141477290-35bc4a9e-dc9f-43ba-99f4-ffce6895ad9c.png)
+# 1.  Predict Employee Attrition:
 
-    Naive_Bayes score   = 0.97
-    Decision tree score = 0.95
-    Random Forest score = 0.98
-    MLP score           = 0.97
+![download](https://user-images.githubusercontent.com/77626222/141610310-ff7898a5-2fbd-42f6-9e47-ee8d89d10c59.gif)
+
+         1) Logistic regression accuracy   : 0.766
+         2) Random Forest Accuracy         : 0.965
+         3) Support vector machine accuracy: 0.891
+         4) XGBoost accuracy               : 0.957
+         
+         cross validation average accuracy for Random Forest Classifier: 0.961
+         cross validation average accuracy for SVM Classifier          : 0.891
+         cross validation average accuracy for XGBoost Classifier      : 0.956
   
 # 2. Car Price Prediction:
 
@@ -65,18 +70,13 @@
          7) RandomizedSearchCV:
                 Accuracy = 80.94
                
-# 5. Predict Employee Attrition:
+# 5. Stroke prediction problem:
+![brain](https://user-images.githubusercontent.com/77626222/141477290-35bc4a9e-dc9f-43ba-99f4-ffce6895ad9c.png)
 
-![download](https://user-images.githubusercontent.com/77626222/141610310-ff7898a5-2fbd-42f6-9e47-ee8d89d10c59.gif)
-
-         1) Logistic regression accuracy   : 0.766
-         2) Random Forest Accuracy         : 0.965
-         3) Support vector machine accuracy: 0.891
-         4) XGBoost accuracy               : 0.957
-         
-         cross validation average accuracy for Random Forest Classifier: 0.961
-         cross validation average accuracy for SVM Classifier          : 0.891
-         cross validation average accuracy for XGBoost Classifier      : 0.956
+    Naive_Bayes score   = 0.97
+    Decision tree score = 0.95
+    Random Forest score = 0.98
+    MLP score           = 0.97
          
 # 6. Apparent Temperature Prediction:
 
