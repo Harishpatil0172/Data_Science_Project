@@ -107,7 +107,8 @@
          
 # 8. Live Sketch Project:
 
-![1_HY4pzxg9ClQmg5Ao5V_4DA](https://user-images.githubusercontent.com/77626222/141650605-235d605a-51e9-49fd-82bb-34978516ddf9.png)
+![1_HY4pzxg9ClQmg5Ao5V_4DA](https://user-images.githubusercontent.com/77626222/141650704-90ca22e2-a7aa-4e54-83ac-b8b02993c153.png)
+
 
          First convert the image into grayscale and then blur the background.
          lastly, add the black and white foreground to the blurred background.
