@@ -63,12 +63,14 @@
                 Accuracy = 76.75
          7) RandomizedSearchCV:
                 Accuracy = 80.94
-
-
-
-
-
-
-
-
-
+                
+#5. Predict Employee Attrition:
+         1) Logistic regression accuracy   : 0.766
+         2) Random Forest Accuracy         : 0.965
+         3) Support vector machine accuracy: 0.891
+         4) XGBoost accuracy               : 0.957
+         
+         cross validation average accuracy for Random Forest Classifier: 0.961
+         cross validation average accuracy for SVM Classifier          : 0.891
+         cross validation average accuracy for XGBoost Classifier      : 0.956
+         
