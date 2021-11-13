@@ -8,6 +8,7 @@
     MLP score           = 0.97
   
 # 2. Car Price Prediction:
+
 ![download](https://user-images.githubusercontent.com/77626222/141260960-7f2708c9-7ac6-4223-bd9c-83661e6e92ab.png)
 
   i) Using Random Forest Regressor:
@@ -66,7 +67,7 @@
                
 # 5. Predict Employee Attrition:
 
-![download](https://user-images.githubusercontent.com/77626222/141607089-3d757e9c-4ccd-4cd3-90ae-106f82f99c5c.png)
+![download](https://user-images.githubusercontent.com/77626222/141610310-ff7898a5-2fbd-42f6-9e47-ee8d89d10c59.gif)
 
          1) Logistic regression accuracy   : 0.766
          2) Random Forest Accuracy         : 0.965
