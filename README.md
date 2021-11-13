@@ -105,3 +105,15 @@
  ![download](https://user-images.githubusercontent.com/77626222/141645594-09269d7a-93eb-469a-9edd-cd36a02c2ed7.jpg)
 
          
+# 8. Live Sketch Project:
+
+         First convert the image into grayscale and then blur the background.
+         lastly, add the black and white foreground to the blurred background.
+         TO seperate the background we invert image and then we'll blur it,
+         and our final output will be the frame recorded by the webcam.
+         
+   Tools Used:
+            1. Anaconda prompt
+            2. Spyder ide
+            3. Opencv Python
+   
