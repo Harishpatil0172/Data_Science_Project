@@ -143,6 +143,9 @@ Models implemented:
                   roc_auc_score  = 0.73
                   
 # 9. E-Signing of Loan Based on Financial History:
+
+![download](https://user-images.githubusercontent.com/77626222/141684188-226076aa-286e-4196-bd84-9574c1fc96d7.png)
+
          
          Electronic signatures aren’t exactly a novelty. They have been around since the American Civil War, during which contracts were signed through Morse. In a modern      setting, an e-Sign refers to a unique, digitised, encrypted personal identifier. This is, in essence, different from the ‘wet’ signatures created by hand. The e-Sign is meant to complete transactions, loops, and agreements electronically.
 
