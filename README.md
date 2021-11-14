@@ -100,12 +100,8 @@
             Mean Absolute Error    :  0.501
             Mean Squared Error     :  0.368
             Root Mean Squared Error:  0.607
-            
- # 7. Consumer Complaint Classification:
- ![download](https://user-images.githubusercontent.com/77626222/141645594-09269d7a-93eb-469a-9edd-cd36a02c2ed7.jpg)
-
-         
-# 8. Live Sketch Project:
+    
+# 7. Live Sketch Project:
 
 ![1_HY4pzxg9ClQmg5Ao5V_4DA](https://user-images.githubusercontent.com/77626222/141650704-90ca22e2-a7aa-4e54-83ac-b8b02993c153.png)
 
@@ -121,7 +117,7 @@
             2. Spyder ide
             3. Opencv Python
    
-# 9. Blood Donation Analysis:
+# 8. Blood Donation Analysis:
 
 ![download](https://user-images.githubusercontent.com/77626222/141669474-c3d5e792-299d-486a-a256-af030ba4d2ee.jpg)
 
