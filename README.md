@@ -156,6 +156,7 @@ In India, the e-Sign has been granted legal status by amendments to various laws
          4. Support Vector Machine    (accuracy_score = 58.87)
          5. Xg Boost                  (accuracy_score = 62.78)
    Conclusion:
+   
          XgBoost Algorithm performs the best and give the accuracy of 62 %
          We see that the ANN with no feature engineering performs far better than SVM, Random Forest with feature engineering
          Though we didnt get very high accuracy but this can help the banks in knowing whether the customer is risky or not.
