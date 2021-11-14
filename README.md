@@ -141,3 +141,20 @@ Models implemented:
          5. MLP Classifier:
                   accuracy_score = 0.78 
                   roc_auc_score  = 0.73
+                  
+# 9. E-Signing of Loan Based on Financial History:
+         Electronic signatures aren’t exactly a novelty. They have been around since the American Civil War, during which contracts were signed through Morse. In a modern                setting, an e-Sign refers to a unique, digitised, encrypted personal identifier. This is, in essence, different from the ‘wet’ signatures created by hand. The e-Sign            is meant to complete transactions, loops, and agreements electronically.
+
+In India, the e-Sign has been granted legal status by amendments to various laws, namely the Information Technology Act, Indian Evidence Act and the Negotiable Instruments Act. Early adopters in the financial sector have started using e-Sign to get customers to sign loan and card applications, and loan agreements.
+         
+   Models implemented:
+     
+         1. Artificial Neural Network (accuracy_score = 60.99)
+         2. Random Forest Classifier  (accuracy_score = 61.84)
+         3. Gradient Boosting         (accuracy_score = 58.30)
+         4. Support Vector Machine    (accuracy_score = 58.87)
+         5. Xg Boost                  (accuracy_score = 62.78)
+   Conclusion:
+         XgBoost Algorithm performs the best and give the accuracy of 62 %
+         We see that the ANN with no feature engineering performs far better than SVM, Random Forest with feature engineering
+         Though we didnt get very high accuracy but this can help the banks in knowing whether the customer is risky or not.
