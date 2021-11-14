@@ -121,3 +121,27 @@
             2. Spyder ide
             3. Opencv Python
    
+# 9. Blood Donation Analysis:
+
+![download](https://user-images.githubusercontent.com/77626222/141669474-c3d5e792-299d-486a-a256-af030ba4d2ee.jpg)
+
+## Aim Of Project:
+         To build a model which can identify who is likely to donate blood again.
+         
+Models implemented:
+
+         1. Logistic Regression:
+                  accuracy_score = 0.71 
+                  roc_auc_score  = 0.73
+         2. Suport Vector Machine:
+                  accuracy_score = 0.78 
+                  roc_auc_score  = 0.84
+         3. Random Forest:
+                  accuracy_score = 0.75 
+                  roc_auc_score  = 0.77
+         4. Decision Tree:
+                  accuracy_score = 0.73 
+                  roc_auc_score  = 0.73
+         5. MLP Classifier:
+                  accuracy_score = 0.78 
+                  roc_auc_score  = 0.73
