@@ -163,3 +163,14 @@ In India, the e-Sign has been granted legal status by amendments to various laws
          XgBoost Algorithm performs the best and give the accuracy of 62 %
          We see that the ANN with no feature engineering performs far better than SVM, Random Forest with feature engineering
          Though we didnt get very high accuracy but this can help the banks in knowing whether the customer is risky or not.
+         
+# 10. Mutual Fund Analysis:
+
+![download](https://user-images.githubusercontent.com/77626222/141685539-2a8f55b3-9a2c-4e3e-87c3-1516bd518bef.jpg)
+
+Aim:
+         To Analyse various parameters related to the Hybrid Mutual fund dataset and find distinction between good and bad schemes
+
+Conclusion:   
+         upto 53.3% of the schemes are bad!
+         
