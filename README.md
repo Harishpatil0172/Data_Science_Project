@@ -226,4 +226,17 @@ ANN Sequential Model:
 Summary:
 
          The above model has a loss of 0.27 and an accuracy of about 86%. This is the maximum accuracy it can reach with the given size of data.
-         This model can be successfully used for predicting mortality in ICUs but then one should keep in mind that these values are just predicted values and the predictions can be wrong.         
+         This model can be successfully used for predicting mortality in ICUs but then one should keep in mind that these values are just predicted values and the predictions            can be wrong.         
+
+# 14. Suicide rate trend analysis:
+
+![images](https://user-images.githubusercontent.com/77626222/141795283-b649654e-8e4a-43a7-9fb9-a57327987e97.jpg)
+
+Machine Learning Model:
+
+The following algorithms will be tested on the given dataset and the one with the best performance would be declared suitable:
+        
+         Random Forest RMSE    : 47.09774965539696
+         Decesion Tree RMSE    : 61.62399259197895
+         Linear Regression RMSE: 66.7226486008311
+         SVR RMSE              : 88.8432701239121
