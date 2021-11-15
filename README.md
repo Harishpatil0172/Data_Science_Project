@@ -174,3 +174,11 @@ Aim:
 Conclusion:   
          upto 53.3% of the schemes are bad!
          
+# 11. New York Stock Exchange Predictions:
+
+![giphy-downsized-large](https://user-images.githubusercontent.com/77626222/141719435-54750e06-c7c4-4b41-88fc-36893c45c9a1.gif)
+
+# Result:
+plot of the graph of stock prices with time:
+![download](https://user-images.githubusercontent.com/77626222/141719232-a4d60ba1-2145-4814-9a57-e81fedf1a30a.png)
+(Red - Predicted Stock Prices  ,  Blue - Actual Stock Prices)
