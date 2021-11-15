@@ -179,9 +179,37 @@ Conclusion:
 
 ![giphy-downsized-large](https://user-images.githubusercontent.com/77626222/141719435-54750e06-c7c4-4b41-88fc-36893c45c9a1.gif)
 
-# Result:
-plot of the graph of stock prices with time:
+         # Result:
+         plot of the graph of stock prices with time:
 
 ![download](https://user-images.githubusercontent.com/77626222/141719232-a4d60ba1-2145-4814-9a57-e81fedf1a30a.png)
 
 (Red - Predicted Stock Prices  ,  Blue - Actual Stock Prices)
+
+# 12. Kyphosis Disease Classification:
+
+![images (1)](https://user-images.githubusercontent.com/77626222/141730775-d284668d-2dec-4c07-a3df-c15542874e73.jpg)
+
+About:
+
+         Kyphosis is an abnormally excessive convex curvature of the spine. The kyphosis data frame has 81 rows and 4 columns. representing data on children who have had corrective spinal surgery. 
+         
+INPUTS:
+
+         Age: in months
+         Number: the number of vertebrae involved
+         Start: the number of the first (topmost) vertebra operated on.
+
+OUTPUTS:
+
+         Kyphosis: a factor with levels absent present indicating if a kyphosis (a type of deformation) was present after the operation.
+         
+1. DecisionTreeClassifier:    
+     
+        Confusion matrix:
+ ![download](https://user-images.githubusercontent.com/77626222/141731949-a8c26dae-faf1-4932-abd9-6552632ab1ad.png)
+
+2. RandomForestClassifier:
+
+        Confusion matrix:
+![download (2)](https://user-images.githubusercontent.com/77626222/141732013-c8df4554-6527-4203-b798-c9287b0963b3.png)
