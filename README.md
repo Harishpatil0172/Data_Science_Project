@@ -213,3 +213,17 @@ OUTPUTS:
 
         Confusion matrix:
 ![download (2)](https://user-images.githubusercontent.com/77626222/141732013-c8df4554-6527-4203-b798-c9287b0963b3.png)
+
+# 13. Mortality Prediction ICU:
+
+![images](https://user-images.githubusercontent.com/77626222/141788463-1a4cc4e6-512c-4de3-8f52-7f665c26c3de.png)
+
+ANN Sequential Model:
+
+![download](https://user-images.githubusercontent.com/77626222/141788871-0fcf0ae7-5b52-4de4-b8ea-72f7bdba3c0d.png)
+         
+         accuracy_score = 0.86875
+Summary:
+
+         The above model has a loss of 0.27 and an accuracy of about 86%. This is the maximum accuracy it can reach with the given size of data.
+         This model can be successfully used for predicting mortality in ICUs but then one should keep in mind that these values are just predicted values and the predictions can be wrong.         
