@@ -181,4 +181,5 @@ Conclusion:
 # Result:
 plot of the graph of stock prices with time:
 ![download](https://user-images.githubusercontent.com/77626222/141719232-a4d60ba1-2145-4814-9a57-e81fedf1a30a.png)
+
 (Red - Predicted Stock Prices  ,  Blue - Actual Stock Prices)
