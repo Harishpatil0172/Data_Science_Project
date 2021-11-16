@@ -287,3 +287,20 @@ Using these Metrics, we have come up with a Formula to calculate the Social Medi
          (No. of People Reviewed for Movie/No. Of People Voted for Movie)*No. Of Facebook Likes
 
 Project Link: https://github.com/Harishpatil0172/Data_Science_Project/tree/main/Movie%20Recommendation%20Engine
+
+# 17. Analyzing the Growth of Indian Startups:
+
+![for-magicpin-startup-story_thinkstockphotos-516796850](https://user-images.githubusercontent.com/77626222/141989851-99998a02-6b8f-4cad-97ec-90008b18a74b.gif)
+
+Dataset- startup_funding.csv
+
+On Average indian startups got funding of :  132706955.99
+
+analyse:
+
+         1. How Does the Funding Ecosystem changes with respect to Time?
+         2. What is the General Amount that Startups get in India?
+         3. Which Kind of Industries are more preferred for Startups?
+         4. Does Location also play a role, In determining the Growth of a Startup?
+         5. Who plays the main role in Indian Startups Ecosystem?
+         6. What are the different Types of Funding for Startups?
