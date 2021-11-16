@@ -240,3 +240,13 @@ The following algorithms will be tested on the given dataset and the one with th
          Decesion Tree RMSE    : 61.62399259197895
          Linear Regression RMSE: 66.7226486008311
          SVR RMSE              : 88.8432701239121
+         
+# 15 . Customers Clustering Analysis:
+
+Kmeans Algorithm:
+
+![fe43cd8457302ccbc7023c0984c2e42b](https://user-images.githubusercontent.com/77626222/141915030-ac26e589-1c04-4547-a735-9e8cda7fa1f0.jpg)
+
+   Clustering Analysis gives us a very clear insight about the different segments of the customers in the Mall. There are clearly Five segments of Customers namely Miser, General, Target, Spendthrift, Careful based on their Annual Income and Spending Score which are reportedly the best factors/attributes to determine the segments of a customer in a Mall.
+      
+   According to my own intuition by looking at the clustering plot between the age of the customers and their corresponding spending scores, I have aggregated them into 4 different categories namely Usual Customers, Priority Customers, Senior Citizen Target Customers, Young Target Customers. Then after getting the results we can accordingly make different marketing strategies and policies to optimize the spending scores of the customer in the Mall.
