@@ -256,4 +256,34 @@ Kmeans Algorithm:
 ![download (1)](https://user-images.githubusercontent.com/77626222/141932028-aed79b7b-567a-4519-9dac-7b246bf7dd36.jpg)
 
 Dataset: movie_metadata
-Link: https://github.com/Harishpatil0172/Data_Science_Project/tree/main/Movie%20Recommendation%20Engine
+
+Problem Statement:
+
+         Perform analysis and Basic Recommendations based on Similar Genres and Movies which Users prefer.
+
+Some of the Key Points on which we will be focusing include:
+
+         Profitability of Movies
+         Language based Gross Analysis
+         Comparison of Gross and Profit for Different Genres,
+         Recommendation systems based on Actors, Movies, Genres.
+         
+Calculating Profit of a Movie:
+         
+Budget: It is an amount which Producers Spend to Produce a Movie which Includes the Production, casting, and Advertisements cost.
+Gross: It is an amount which Producers earn by releasing their movies in theaters, selling satellite rights to TV, OTT Platforms such as Prime, Hulu, Disney+Hotstar, Netflix etc.
+         
+         Profit: Gross - Budget
+         
+Calculating Social Media Popularity:
+Important Factors to determine the Social Media Popularity includes:
+
+         Number of People who voted for the Movie.
+         Number of People who Reviewed the Movie.
+         Number of Facebook Likes on the Movie Page.
+         
+Using these Metrics, we have come up with a Formula to calculate the Social Media Popularity of these Movies.
+
+         (No. of People Reviewed for Movie/No. Of People Voted for Movie)*No. Of Facebook Likes
+
+Project Link: https://github.com/Harishpatil0172/Data_Science_Project/tree/main/Movie%20Recommendation%20Engine
