@@ -250,3 +250,9 @@ Kmeans Algorithm:
    Clustering Analysis gives us a very clear insight about the different segments of the customers in the Mall. There are clearly Five segments of Customers namely Miser, General, Target, Spendthrift, Careful based on their Annual Income and Spending Score which are reportedly the best factors/attributes to determine the segments of a customer in a Mall.
       
    According to my own intuition by looking at the clustering plot between the age of the customers and their corresponding spending scores, I have aggregated them into 4 different categories namely Usual Customers, Priority Customers, Senior Citizen Target Customers, Young Target Customers. Then after getting the results we can accordingly make different marketing strategies and policies to optimize the spending scores of the customer in the Mall.
+
+# 16. Movie Recommendation System:
+
+![download (1)](https://user-images.githubusercontent.com/77626222/141932028-aed79b7b-567a-4519-9dac-7b246bf7dd36.jpg)
+
+Dataset: movie_metadata
