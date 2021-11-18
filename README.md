@@ -304,3 +304,13 @@ analyse:
          4. Does Location also play a role, In determining the Growth of a Startup?
          5. Who plays the main role in Indian Startups Ecosystem?
          6. What are the different Types of Funding for Startups?
+
+# 18. Car Dekho (Linear Regression):
+
+## Conclusion:
+
+1. Automatic vehicles fetch higher resale price compared to manual ones.
+2. Age of the vehicle seems to show negative correlation with selling price.
+3. Past_Owners and Kms_Driven are showing very less correlation with selling price.
+4. Resale value of cars with Fuel type CNG is higher as comapre to other.
+5. Average price of a car directly influences Selling Price prediction.Both are highly correlated and here directly proportional to each other.
