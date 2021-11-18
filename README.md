@@ -307,7 +307,7 @@ analyse:
 
 # 18. Car Dekho (Linear Regression):
 
-![2df0f68ddd3792fe916e0c7d317fa5f8](https://user-images.githubusercontent.com/77626222/142352261-f05129da-16ce-4285-a6bd-21e87d2a687c.gif)
+![CarDekho](https://user-images.githubusercontent.com/77626222/142352428-eb75051d-004a-443c-88ea-b66ea22d7b6d.jpg)
 
 ## Conclusion:
 
