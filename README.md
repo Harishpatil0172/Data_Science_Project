@@ -307,10 +307,12 @@ analyse:
 
 # 18. Car Dekho (Linear Regression):
 
+![2df0f68ddd3792fe916e0c7d317fa5f8](https://user-images.githubusercontent.com/77626222/142352261-f05129da-16ce-4285-a6bd-21e87d2a687c.gif)
+
 ## Conclusion:
 
-1. Automatic vehicles fetch higher resale price compared to manual ones.
-2. Age of the vehicle seems to show negative correlation with selling price.
-3. Past_Owners and Kms_Driven are showing very less correlation with selling price.
-4. Resale value of cars with Fuel type CNG is higher as comapre to other.
-5. Average price of a car directly influences Selling Price prediction.Both are highly correlated and here directly proportional to each other.
+         1. Automatic vehicles fetch higher resale price compared to manual ones.
+         2. Age of the vehicle seems to show negative correlation with selling price.
+         3. Past_Owners and Kms_Driven are showing very less correlation with selling price.
+         4. Resale value of cars with Fuel type CNG is higher as comapre to other.
+         5. Average price of a car directly influences Selling Price prediction.Both are highly correlated and here directly proportional to each other.
